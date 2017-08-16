@@ -20,3 +20,5 @@ Corta descripción de lo realizado en el taller.
 
 Referencias utilizadas.
 
+https://github.com/ICESI/so-commands/tree/master/centos7
+
