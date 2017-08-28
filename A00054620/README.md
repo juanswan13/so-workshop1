@@ -100,17 +100,17 @@ El informe debe ser entregado en formato README.md y debe ser subido a un reposi
 * http://linuxemb.wikidot.com/variables-entorno
 
 
-[1]: images/rmdir.PNG
-[2]: images/find.PNG
-[3]: images/who-a.PNG
-[4]: images/Printenv.PNG
-[5]: images/top.PNG
-[6]: images/ps-eafu.PNG
-[7]: images/free-m.PNG
-[8]: images/more.PNG
-[9]: images/sedBlanco.PNG
-[10]: images/tar.PNG
-[11]: images/exportVariable.PNG
-[12]: images/permanenteAmbiente.PNG
-[13]: images/guardoVarialbe.PNG
-[14]: images/variableSolida.PNG
+[1]: rmdir.PNG
+[2]: find.PNG
+[3]: who-a.PNG
+[4]: Printenv.PNG
+[5]: top.PNG
+[6]: ps-eafu.PNG
+[7]: free-m.PNG
+[8]: more.PNG
+[9]: sedBlanco.PNG
+[10]: tar.PNG
+[11]: exportVariable.PNG
+[12]: permanenteAmbiente.PNG
+[13]: guardoVarialbe.PNG
+[14]: variableSolida.PNG
